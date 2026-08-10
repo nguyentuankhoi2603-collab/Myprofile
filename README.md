@@ -93,22 +93,6 @@
 
 ---
 
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
-
-<br />
-
-<div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=BAAM_20603show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&hide=c%23,powershell&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="Top Languages" />
-</div>
-
-<br />
-
-<p align="center">
-  <strong>Note:</strong> Replace <code>BAAM_2603</code> with your real GitHub username.
-</p>
-
----
 
 <h2 align="center">🌐 Where to find me 🌐</h2>
 
