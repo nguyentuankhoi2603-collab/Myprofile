@@ -112,11 +112,8 @@
 
 <p align="center">
   <a href="https://www.facebook.com/nguyen.tuan.khoi.388986" target="_blank">
-    Facebook
   </a>
-  |
   <a href="https://www.instagram.com/its.baamntk_/" target="_blank">
-    Instagram
   </a>
 </p>
 
