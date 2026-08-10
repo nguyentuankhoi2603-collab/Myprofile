@@ -1,117 +1,155 @@
-<!-- Trungquandev -->
-<a href="#" target="_blank">
-  <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
-</a>
+<h1 align="center">Hi 👋, I'm Nguyễn Tuấn Khôi</h1>
+
+<h3 align="center">
+  Computer Network & Data Communication Student
+</h3>
+
+<p align="center">
+  <strong>Tôn Đức Thắng University</strong>
+</p>
+
+<br />
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Computer+Network+%26+Data+Communication;Java+%7C+Python+%7C+C;Cisco+Packet+Tracer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</p>
+
+---
+
+<h2 align="center">👨‍💻 About Me 👨‍💻</h2>
+
+<p align="center">
+  My name is <strong>Nguyễn Tuấn Khôi</strong>. <br />
+  I am currently studying <strong>Computer Network & Data Communication</strong> at
+  <strong>Tôn Đức Thắng University</strong>. <br />
+  I am interested in computer networks, programming, system design, and practical web applications.
+</p>
+
+<br />
+
+<ul>
+  <li>🎓 University: <strong>Tôn Đức Thắng University</strong></li>
+  <li>📚 Major: <strong>Computer Network & Data Communication</strong></li>
+  <li>💻 Programming Languages: <strong>Java, Python, C</strong></li>
+  <li>🌐 Networking Tool: <strong>Cisco Packet Tracer</strong></li>
+  <li>🚀 Currently learning: <strong>Web Development, Database, Networking, DevOps basics</strong></li>
+</ul>
+
+---
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
-<br>
-<!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=nuxt.js&logoColor=4FC08D" alt="Nuxt.js logo" title="Nuxt.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Three.js-282C34?logo=three.js&logoColor=FFFFFF" alt="Three.js logo" title="Three.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
-&nbsp;
 
-<br>
+<br />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-282C34?logo=openjdk&logoColor=ED8B00" alt="Java" title="Java" height="28" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python" title="Python" height="28" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=A8B9CC" alt="C" title="C" height="28" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Cisco-282C34?logo=cisco&logoColor=1BA0D7" alt="Cisco" title="Cisco" height="28" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Packet%20Tracer-282C34?logo=cisco&logoColor=1BA0D7" alt="Cisco Packet Tracer" title="Cisco Packet Tracer" height="28" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5" title="HTML5" height="28" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3" title="CSS3" height="28" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="MySQL" title="MySQL" height="28" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Git" title="Git" height="28" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="VS Code" title="VS Code" height="28" />
+</p>
+
+---
+
+<h2 align="center">📌 Main Skills 📌</h2>
+
+<br />
+
+<table align="center">
+  <tr>
+    <td align="center" width="250">
+      <strong>Programming</strong>
+      <br />
+      Java, Python, C
+    </td>
+    <td align="center" width="250">
+      <strong>Networking</strong>
+      <br />
+      Cisco Packet Tracer, IP, Routing, Switching
+    </td>
+    <td align="center" width="250">
+      <strong>Database</strong>
+      <br />
+      SQL, MySQL
+    </td>
+  </tr>
+</table>
+
+---
+
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<br>
-<div align=center>
-  <a href="#" title="Trungquandev">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungquandev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
-  <a href="#" title="Trungquandev">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=trungquandev&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
-  </a>
-</div>
 
-<br>
-<h2 align="center">👽 Where to find me 👽</h2>
-<br>
-<!-- https://icons8.com -->
+<br />
+
 <div align="center">
-  <a href="https://trungquandev.com" target="blank">
-    <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="trungquandev-blog" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&hide=c%23,powershell&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="Top Languages" />
+</div>
+
+<br />
+
+<p align="center">
+  <strong>Note:</strong> Replace <code>BAAM_2603</code> with your real GitHub username.
+</p>
+
+---
+
+<h2 align="center">🌐 Where to find me 🌐</h2>
+
+<br />
+
+<div align="center">
+  <a href="https://www.facebook.com/nguyen.tuan.khoi.388986" target="_blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="Facebook" />
   </a>
-  <a href="https://facebook.com/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
-  </a>
-  <a href="https://youtube.com/@trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
-  </a>
-  <a href="https://www.linkedin.com/in/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
-  </a>
-  <a href="https://instagram.com/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
-  </a>
-  <a href="mailto:trungquandev.official@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+
+  <a href="https://www.instagram.com/its.baamntk_/" target="_blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" alt="Instagram" />
   </a>
 </div>
 
-<br>
+<br />
 
-<h2 align="center">📖 My main course: [FULL STACK] MERN ADVANCED 📖</h2>
-<br>
-<p>
-  <a href="https://youtu.be/9M1ZeMip40k?si=AorUOYNnPL5Evr26" target="_blank">
-    <strong>☕ [FULL STACK] MERN ADVANCED • Lớp học lập trình nâng cao thực tế để đi làm ✍ | ReactJS, NodeJS, ExpressJS, MongoDB | TrungQuanDev</strong>
+<p align="center">
+  <a href="https://www.facebook.com/nguyen.tuan.khoi.388986" target="_blank">
+    Facebook
+  </a>
+  |
+  <a href="https://www.instagram.com/its.baamntk_/" target="_blank">
+    Instagram
   </a>
 </p>
-<p><strong>☕ Đây là một khóa học mà mình đã làm cực kỳ tâm huyết, với phong cách dạy lập trình làm dự án thực tế, chuyên nghiệp. Để các bạn có một hành trang kiến thức vững chắc cho hành trình sự nghiệp làm lập trình viên trong tương lai nhé.</strong></p>
-<p><strong>☕ Vì mỗi lần mở lớp online dạy trực tiếp này mình chỉ nhận số lượng rất ít bạn để đảm bảo chất lượng học, nên là các bạn quan tâm thì cứ thoải mái liên hệ với mình sớm để đăng ký giữ chỗ cho những lớp tiếp theo nha!</strong></p>
-<p>
-  <strong>🔗 Video giới thiệu chi tiết: <a href="https://youtu.be/9M1ZeMip40k?si=AorUOYNnPL5Evr26" target="_blank">Demo & Review toàn bộ khóa Full Stack MERN Advanced | Học lập trình thực tế để đi làm | TrungQuanDev</a></strong>
-  <br><br>
-  <strong>🔗 Bài viết chi tiết trên blog: <a href="https://trungquandev.com/khoa-hoc-lap-trinh-full-stack-mern-100-du-an-thuc-te-chat-luong/" target="_blank">Tự tin làm chủ kỹ năng lập trình Website với combo kiến thức MERN Stack Nâng Cao đầy đủ từ Front-end cho đến Back-end: ReactJS, NodeJS, ExpressJS, MongoDB...vv</a></strong>
-  <br><br>
-  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/trungquandev" target="_blank">https://www.facebook.com/trungquandev</a></strong>
-  <br>
-  <strong>📧 Hoặc Email: <a href="mailto:trungquandev.official@gmail.com" target="_top">trungquandev.official@gmail.com</a></strong>
-</p>
-<a href="https://youtube.com/@trungquandev" target="_blank">
-  <img src="images/ytb-lo-trinh-hoc-lap-trinh-web-va-gioi-thieu-kenh-trungquandev-mot-lap-trinh-vien.png" width="1200" alt="trungquandev-mot-lap-trinh-vien" />
-</a>
 
-<br>
-<h2 align="center">📑 My Favorites Quote 📑</h2>
-<br>
-<a href="#" target="_blank">
-  <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-mot-lap-trinh-vien-mern-stack-advanced" />
-</a>
+---
+
+<h2 align="center">📖 Favorite Quote 📖</h2>
+
+<br />
+
+<p align="center">
+  <em>
+    "Learning never exhausts the mind. It only makes you better every day."
+  </em>
+</p>
+
+<br />
+
+<p align="center">
+  Thanks for visiting my GitHub profile! 🚀
+</p>
